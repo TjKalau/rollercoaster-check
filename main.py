@@ -11,8 +11,6 @@ file2 = open("rules/height.txt", "r")
 height_check = int(file2.read())
 file1.close()
 
-dedeygw
-
 running = True
 while running:
 
